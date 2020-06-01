@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 setup(
   name="rotten_tomatoes_client",
   packages=find_packages(exclude=['tests*']),
-  install_requires=["requests", "enum34"],
+  install_requires=["requests"],
   version="0.0.3",
   description="Rotten Tomatoes Client",
   author="Jae Bradley",
