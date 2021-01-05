@@ -1,6 +1,6 @@
 # Rotten Tomatoes Client (No API Key Necessary!)
 
-Forked from [jaebradley/rotten_tomatoes_client](https://github.com/jaebradley/rotten_tomatoes_client). See [here](https://gitlab.com/seanbreckenridge/rotten_tomatoes_cli) for an explanation as to why.
+Forked from [jaebradley/rotten_tomatoes_client](https://github.com/jaebradley/rotten_tomatoes_client). See [here](https://github.com/seanbreckenridge/rotten_tomatoes_cli) for an explanation as to why.
 
 * [Introduction](https://github.com/jaebradley/rotten_tomatoes_client/blob/master/README.md#introduction)
 * [The Not-So-Private Public API](https://github.com/jaebradley/rotten_tomatoes_client/blob/master/README.md#the-not-so-private-public-api)
